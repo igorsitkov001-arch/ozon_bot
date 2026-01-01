@@ -1,0 +1,1 @@
+web: python ozon_bot.py
